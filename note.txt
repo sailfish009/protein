@@ -32,3 +32,7 @@ http://raptorx.uchicago.edu/StructurePrediction/predict/
 https://compbio.soe.ucsc.edu/SAM_T08/T08-query.html
 http://bioinf.cs.ucl.ac.uk/?id=747
 http://www.scfbio-iitd.res.in/bhageerathH+/index.php
+
+--
+
+https://arxiv.org/pdf/1905.00455v1.pdf
